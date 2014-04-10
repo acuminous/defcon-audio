@@ -1,0 +1,23 @@
+{
+  "name": "defcon-audio",
+  "version": "0.1.0",
+  "description": "Plays noises for specific events",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acuminous/defcon-audio"
+  },
+  "author": "Stephen Cresswell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acuminous/defcon-audio/issues"
+  },
+  "homepage": "https://github.com/acuminous/defcon-audio",
+  "dependencies": {
+    "async": "^0.2.10",
+    "lodash": "^2.4.1"
+  }
+}
